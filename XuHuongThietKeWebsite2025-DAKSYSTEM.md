@@ -18,5 +18,5 @@ Các tính năng quan trọng cho website du lịch năm 2025 gồm:
 - **Tích hợp bản đồ thực tế:** Cung cấp thông tin chi tiết về các điểm đến du lịch.
 
 [Chi tiết về Xu Hướng Thiết Kế Website 2025 ](https://daksystem.net/xu-huong-thiet-ke-website-2020.html)
-[Tham khảo thêm về xu hướng thiết kế website năm 2020 tại]: (daksystem.net)
+[Tham khảo thêm về xu hướng thiết kế website năm 2020 tại](daksystem.net)
 
