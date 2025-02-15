@@ -18,12 +18,12 @@ Giá dịch vụ thiết kế website được nhân viên của đơn vị tư 
 
 DAKsystem cung cấp đa dạng các gói dịch vụ cho khách hàng có nhu cầu lựa chọn:
 
-- [Thiết kế website Cơ bản](https://daksystem.net/thiet-ke-website-co-ban)
-- [Thiết kế website Chuyên nghiệp](https://daksystem.net/thiet-ke-website-chuyen-nghiep)
-- [Thiết kế website Theo mẫu](https://daksystem.net/thiet-ke-website-theo-mau)
-- [Thiết kế website Chuẩn SEO](https://daksystem.net/thiet-ke-website-chuan-seo)
-- [Thiết kế website Theo yêu cầu](https://daksystem.net/thiet-ke-website-theo-yeu-cau)
-- [Thiết kế website Trọn gói](https://daksystem.net/thiet-ke-website-tron-goi)
+- [Thiết kế website Cơ bản](https://daksystem.net/thiet-ke-web-co-ban)
+- [Thiết kế website Chuyên nghiệp](https://daksystem.net/thiet-ke-web-chuyen-nghiep)
+- [Thiết kế website Theo mẫu](https://daksystem.net/thiet-ke-web-theo-mau)
+- [Thiết kế website Chuẩn SEO](https://daksystem.net/thiet-ke-web-chuan-seo)
+- [Thiết kế website Theo yêu cầu](https://daksystem.net/thiet-ke-web-theo-yeu-cau)
+- [Thiết kế website Trọn gói](https://daksystem.net/thiet-ke-web-tron-goi)
 
 ## CÔNG NGHỆ ÁP DỤNG TẠI DAKSYSTEM
 
@@ -48,7 +48,6 @@ Một số mẫu website tại DAKsystem để khách hàng có thể lựa ch�
 - [Website phụ kiện tưới](https://daksystem.net/mau-website-phu-kien-tuoi)
 - [Website Ô TÔ](https://daksystem.net/mau-website-o-to)
 - [Website Khách sạn](https://daksystem.net/mau-website-khach-san)
-- [Website ô tô](https://daksystem.net/mau-website-o-to)
 - [Website nhà sách](https://daksystem.net/mau-website-nha-sach)
 - [Website thời trang](https://daksystem.net/mau-website-thoi-trang)
 
@@ -91,4 +90,3 @@ Công ty TNHH DAK SYSTEM là công ty hàng đầu đặt nền móng cho việc
 **Hotline**: 02623 79 77 79 - 0943 943 179
 
 **Website**: [https://daksystem.net](https://daksystem.net)
-
