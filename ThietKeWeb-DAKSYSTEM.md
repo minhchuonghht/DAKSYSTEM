@@ -18,12 +18,12 @@ Giá dịch vụ thiết kế website được nhân viên của đơn vị tư 
 
 DAKsystem cung cấp đa dạng các gói dịch vụ cho khách hàng có nhu cầu lựa chọn:
 
-- Thiết kế website Cơ bản
-- Thiết kế website Chuyên nghiệp
-- Thiết kế website Theo mẫu
-- Thiết kế website Chuẩn SEO
-- Thiết kế website Theo yêu cầu
-- Thiết kế website Trọn gói
+- [Thiết kế website Cơ bản](https://daksystem.net/thiet-ke-website-co-ban)
+- [Thiết kế website Chuyên nghiệp](https://daksystem.net/thiet-ke-website-chuyen-nghiep)
+- [Thiết kế website Theo mẫu](https://daksystem.net/thiet-ke-website-theo-mau)
+- [Thiết kế website Chuẩn SEO](https://daksystem.net/thiet-ke-website-chuan-seo)
+- [Thiết kế website Theo yêu cầu](https://daksystem.net/thiet-ke-website-theo-yeu-cau)
+- [Thiết kế website Trọn gói](https://daksystem.net/thiet-ke-website-tron-goi)
 
 ## CÔNG NGHỆ ÁP DỤNG TẠI DAKSYSTEM
 
@@ -42,23 +42,23 @@ Một số khách hàng đã sử dụng dịch vụ chạy quảng cáo Google 
 
 Một số mẫu website tại DAKsystem để khách hàng có thể lựa chọn:
 
-- Website bán hàng
-- Website Dịch vụ
-- Website Tin tức
-- Website phụ kiện tưới
-- Website Ô TÔ
-- Website Khách sạn
-- Website ô tô
-- Website nhà sách
-- Website thời trang
+- [Website bán hàng](https://daksystem.net/mau-website-ban-hang)
+- [Website Dịch vụ](https://daksystem.net/mau-website-dich-vu)
+- [Website Tin tức](https://daksystem.net/mau-website-tin-tuc)
+- [Website phụ kiện tưới](https://daksystem.net/mau-website-phu-kien-tuoi)
+- [Website Ô TÔ](https://daksystem.net/mau-website-o-to)
+- [Website Khách sạn](https://daksystem.net/mau-website-khach-san)
+- [Website ô tô](https://daksystem.net/mau-website-o-to)
+- [Website nhà sách](https://daksystem.net/mau-website-nha-sach)
+- [Website thời trang](https://daksystem.net/mau-website-thoi-trang)
 
 ## BẢNG GIÁ THIẾT KẾ WEBSITE
 
-| Gói      | Giá (VND) | Tên Miền | Dung lượng hosting (SSD) | Khuyến mãi (VND) |
-|----------|-----------|----------|--------------------------|------------------|
-| **B+**   | 2,990,000 | 2        | 2000 MB                  | 1,000,000        |
-| **A+**   | 4,990,000 | 4        | 4000 MB                  | 2,000,000        |
-| **S+**   | 6,990,000 | 6        | 6000 MB                  | 4,000,000        |
+| Gói                                                         | Giá (VND) | Tên Miền | Dung lượng hosting (SSD) | Khuyến mãi (VND) |
+| ----------------------------------------------------------- | --------- | -------- | ------------------------ | ---------------- |
+| [**B+**](https://daksystem.net/goi-thiet-ke-website-b-plus) | 2,990,000 | 2        | 2000 MB                  | 1,000,000        |
+| [**A+**](https://daksystem.net/goi-thiet-ke-website-a-plus) | 4,990,000 | 4        | 4000 MB                  | 2,000,000        |
+| [**S+**](https://daksystem.net/goi-thiet-ke-website-s-plus) | 6,990,000 | 6        | 6000 MB                  | 4,000,000        |
 
 ## ĐĂNG KÝ DỊCH VỤ
 
@@ -91,3 +91,4 @@ Công ty TNHH DAK SYSTEM là công ty hàng đầu đặt nền móng cho việc
 **Hotline**: 02623 79 77 79 - 0943 943 179
 
 **Website**: [https://daksystem.net](https://daksystem.net)
+
