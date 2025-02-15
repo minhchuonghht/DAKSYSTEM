@@ -37,13 +37,14 @@
 ## 8. Quản Trị Dễ Dàng
 - Bảng quản trị trực quan, đầy đủ các tính năng.
 - Quản lý sản phẩm, đơn hàng, doanh thu một cách nhanh chóng.
+
 - **[Theme WordPress shop quần áo](https://daksystem.net/san-pham/theme-wordpress-shop-quan-ao)**: Mẫu website bán hàng dành cho cửa hàng quần áo.
 - **[Theme WordPress đồ cũ ](https://daksystem.net/san-pham/theme-wordpress-do-cu)**: Mẫu website bán hàng dành cho sản phẩm áo mưa.
 - **[Theme WordPress áo mưa](https://daksystem.net/san-pham/theme-wordpress-ao-mua)**: Mẫu website wordpress.
-- **[Theme WordPress điện máy chuyên nghiệp i](https://daksystem.net/san-pham/theme-wordpress-dien-may-chuyen-nghiep)**: Mẫu website bán hàng 
-- **[Theme WordPress bán rượu](https://daksystem.net/san-pham/theme-wordpress-shop-ruou)**: Mẫu website bán hàng 
-- **[Theme WordPress shop thời trang ]https://daksystem.net/san-pham/theme-wordpress-shop-thoi-trang)**: Mẫu website bán hàng
-- **[Theme WordPress shop phong thủy ](https://daksystem.net/san-pham/theme-wordpress-shop-phong-thuy)**: Mẫu website bán hàng 
-- **[Theme WordPress shop tạp hóa](https://daksystem.net/san-pham/theme-wordpress-shop-tap-hoa)**: Mẫu website bán hàng  .
+- **[Theme WordPress điện máy chuyên nghiệp](https://daksystem.net/san-pham/theme-wordpress-dien-may-chuyen-nghiep)**: Mẫu website bán hàng.
+- **[Theme WordPress bán rượu](https://daksystem.net/san-pham/theme-wordpress-shop-ruou)**: Mẫu website bán hàng.
+- **[Theme WordPress shop thời trang](https://daksystem.net/san-pham/theme-wordpress-shop-thoi-trang)**: Mẫu website bán hàng.
+- **[Theme WordPress shop phong thủy](https://daksystem.net/san-pham/theme-wordpress-shop-phong-thuy)**: Mẫu website bán hàng.
+- **[Theme WordPress shop tạp hóa](https://daksystem.net/san-pham/theme-wordpress-shop-tap-hoa)**: Mẫu website bán hàng.
 
-Chi tiết thêm các mẫu website có thể xem tại: [Daksystem - Mẫu Website Bán Hàng](https://daksystem.net/danh-muc/mau-web-viet-nam/mau-website-ban-hang)
+Chi tiết thêm các mẫu website có thể xem tại: [Daksystem - Mẫu Website Bán Hàng](https://daksystem.net/danh-muc/mau-web-viet-nam/mau-website-ban-hang).
